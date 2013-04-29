@@ -11,3 +11,20 @@
 *.lai
 *.la
 *.a
+
+#Eclipse stuff
+.cproject
+.project
+src/.cpp
+
+#really big input files
+data/
+data/ttimeu10000.node
+data/ttimeu100000.node
+data/ttimeu1000000.node
+data/testA.node
+data/testB.node
+data/testC.node
+
+#output files
+data/*.ele
