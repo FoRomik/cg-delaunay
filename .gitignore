@@ -18,7 +18,6 @@
 src/.cpp
 
 #really big input files
-data/
 data/ttimeu10000.node
 data/ttimeu100000.node
 data/ttimeu1000000.node
